@@ -1,6 +1,4 @@
 body {
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     background-size: cover;
 }
 .container {
@@ -8,7 +6,7 @@ body {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color:whitesmoke;
+    background-color:rgb(254, 255, 249);
     border-radius: 50px;
 }
 
@@ -32,7 +30,7 @@ span {
     font-weight: bold;
 }
 h1{
-    color: green;
+    color: rgb(0, 0, 0);
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight:900;
